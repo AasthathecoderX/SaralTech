@@ -29,3 +29,7 @@ To run this project, simply follow these steps:
 * **HTML5:** For the page structure and content.
 * **CSS3:** For styling, including layouts, animations, and visual effects.
 * **JavaScript:** For interactive functionality, including input handling, validation, and dynamic content display.
+---
+## Web View
+The web page can be viewed from the following website:
+https://aasthathecoderx.github.io/SaralTech/interactive.html
