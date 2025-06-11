@@ -1,4 +1,4 @@
-# Interactive Greeting Page(JavaScript Basics)
+# Interactive Greeting Page(Assignment 2: JavaScript Basics)
 
 This is a simple, interactive web page that greets users with a personalized message. It includes input validation and visual enhancements like animations and a dynamic background.
 
